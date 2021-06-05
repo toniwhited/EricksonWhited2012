@@ -1,0 +1,6 @@
+ACGunmodified                                   These are the files sent to us by Almeida, Campello, and Galvao.
+
+FilesforTable6                                  These are the same files as modified by us. We added a seed to the main program, and modified the estimation program to use more than one starting value.
+                                                You will need these to replicate Table 6. This directory also contains instructions.
+
+mainprogramsanddata                             The are the programs and data you will need to replicate the rest of the tables and figures. This directory also contains instructions.
